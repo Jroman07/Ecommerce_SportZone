@@ -1,4 +1,5 @@
-﻿using Proyecto_SportZone;
+﻿using Microsoft.EntityFrameworkCore;
+using Proyecto_SportZone;
 using Services.MyDbContext;
 
 namespace Services.Customer
@@ -13,32 +14,45 @@ namespace Services.Customer
 
         public Cliente Addcustomer(Cliente customer)
         {
-            throw new NotImplementedException();
+            _myDbContext.Customers.Add(customer);
+            _myDbContext.SaveChanges();
+            return customer;
         }
 
-        public Cliente DeleteCustomer(int id)
+        public void DeleteCustomer(int id)
         {
-            throw new NotImplementedException();
+            Cliente deleteCustomer = _myDbContext.Customers.Find(id);
+            if (deleteCustomer != null)
+            {
+                _myDbContext.Customers.Remove(deleteCustomer);
+                _myDbContext.SaveChanges();
+            }
+
         }
 
         public List<Cliente> GetAllcustomer()
         {
-            throw new NotImplementedException();
+            return _myDbContext.Customers.ToList();
         }
 
         public Cliente GetCostumerById(int id)
         {
-            throw new NotImplementedException();
+            return _myDbContext.Customers.Find(id);
+
         }
 
-        public bool SearchByEmail(string _email)
+        /*public bool SearchByEmail(string _email)
         {
-            throw new NotImplementedException();
-        }
+            return; //_myDbContext.Customers.Find(_email);
+        }*/
 
         public Cliente UpdateCustomer(int id, Cliente customer)
         {
-            throw new NotImplementedException();
+            Cliente customerUpdate = _myDbContext.Customers.Find(id);
+            customerUpdate.Name = customer.Name;
+            customerUpdate.Email = customer.Email;
+
+            return customer;
         }
     }
 }

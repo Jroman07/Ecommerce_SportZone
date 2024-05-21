@@ -11,8 +11,8 @@ namespace Services.Customer
 
         public Cliente UpdateCustomer(int id, Cliente customer);
 
-        public Cliente DeleteCustomer(int id);
+        public void DeleteCustomer(int id);
 
-        public bool SearchByEmail(string _email);
+        //public bool SearchByEmail(string _email);
     }
 }

@@ -9,3 +9,4 @@ C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\E
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Entidades\obj\Debug\net7.0\refint\Entidades.dll
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Entidades\obj\Debug\net7.0\Entidades.pdb
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Entidades\obj\Debug\net7.0\ref\Entidades.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Entidades\obj\Debug\net7.0\Entidades.sourcelink.json

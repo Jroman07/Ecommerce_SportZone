@@ -24,7 +24,9 @@ namespace Services.Customer
             Cliente deleteCustomer = _myDbContext.Customers.Find(id);
             if (deleteCustomer != null)
             {
-                _myDbContext.Customers.Remove(deleteCustomer);
+                //_myDbContext.Customers.Remove(deleteCustomer);
+                deleteCustomer.IsActive = false;
+                _myDbContext.Update(deleteCustomer);
                 _myDbContext.SaveChanges();
             }
 
@@ -52,7 +54,10 @@ namespace Services.Customer
             customerUpdate.Name = customer.Name;
             customerUpdate.Email = customer.Email;
 
-            return customer;
+            _myDbContext.Update(customerUpdate);
+            _myDbContext.SaveChanges();
+
+            return customerUpdate;
         }
     }
 }

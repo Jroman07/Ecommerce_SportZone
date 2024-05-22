@@ -21,9 +21,10 @@ C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\S
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Entidades.dll
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\bin\Debug\net7.0\Entidades.pdb
-C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.dll
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\refint\Services.dll
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.pdb
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
 C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.sourcelink.json
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_II\Entidades\Services\obj\Debug\net7.0\Services.csproj.Up2Date

@@ -54,5 +54,11 @@ namespace Ecommerce_API.Controllers
         {
             _svCustumer.DeleteCustomer(id);
         }
+        // GET api/<CustomerController>/5
+        [HttpGet("{email}")]
+        public void Search(string _mail)
+        {
+            _svCustumer.SearchByEmail(_mail);
+        }
     }
 }

@@ -43,10 +43,11 @@ namespace Services.Customer
 
         }
 
-        /*public bool SearchByEmail(string _email)
+        public void SearchByEmail(string _email)
         {
-            return; //_myDbContext.Customers.Find(_email);
-        }*/
+           _myDbContext.Customers.Find(_email);
+            Console.WriteLine("The email is:",_email);
+        }
 
         public Cliente UpdateCustomer(int id, Cliente customer)
         {

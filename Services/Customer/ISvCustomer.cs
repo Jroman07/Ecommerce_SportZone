@@ -13,6 +13,6 @@ namespace Services.Customer
 
         public void DeleteCustomer(int id);
 
-        //public bool SearchByEmail(string _email);
+        public void SearchByEmail(string _email);
     }
 }

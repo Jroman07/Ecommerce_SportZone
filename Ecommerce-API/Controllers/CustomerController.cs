@@ -56,9 +56,9 @@ namespace Ecommerce_API.Controllers
         }
         // GET api/<CustomerController>/5
         [HttpGet("{email}")]
-        public void Search(string _mail)
+        public Cliente searchemail(string _mail)
         {
-            _svCustumer.SearchByEmail(_mail);
+            return _svCustumer.SearchByEmail(_mail);
         }
     }
 }

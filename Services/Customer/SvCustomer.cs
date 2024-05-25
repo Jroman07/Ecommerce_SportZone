@@ -19,12 +19,12 @@ namespace Services.Customer
             return customer;
         }
 
-        public void DeleteCustomer(int id)
+        public void DeleteCustomer(int id)  
         {
             Cliente deleteCustomer = _myDbContext.Customers.Find(id);
             if (deleteCustomer != null)
             {
-                //_myDbContext.Customers.Remove(deleteCustomer);
+                
                 deleteCustomer.IsActive = false;
                 _myDbContext.Update(deleteCustomer);
                 _myDbContext.SaveChanges();
@@ -43,10 +43,9 @@ namespace Services.Customer
 
         }
 
-        public void SearchByEmail(string _email)
+        public Cliente SearchByEmail(string _email)
         {
-           _myDbContext.Customers.Find(_email);
-            Console.WriteLine("The email is:",_email);
+            return _myDbContext.Customers.Find(_email);
         }
 
         public Cliente UpdateCustomer(int id, Cliente customer)

@@ -15,19 +15,27 @@ namespace Services.Invoice
         {
             _myDbContext = new MyContext();
         }
-        public Invoices AddInvoice(Invoices newInvoice)
+
+
+     #region Writes
+        public Entidades.Invoice AddInvoice(Entidades.Invoice newInvoice)
+        {
+            throw new NotImplementedException();
+        }
+     #endregion
+
+
+     #region Reads
+        public Entidades.Invoice GetAllInvoices()
         {
             throw new NotImplementedException();
         }
 
-        public Invoices GetAllInvoices()
+        public Entidades.Invoice GetInvoiceById(int invoiceId)
         {
             throw new NotImplementedException();
         }
-
-        public Invoices GetInvoiceById(int invoiceId)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
+    #endregion
 }

@@ -15,7 +15,7 @@ namespace Services.Category
         #region Writes
         public Entidades.Category AddCategory(Entidades.Category category)
         {
-            _myDbContext.Categorias.Add(category);
+            _myDbContext.Categorys.Add(category);
             _myDbContext.SaveChanges();
 
             return category;
@@ -25,12 +25,12 @@ namespace Services.Category
         #region Reads
         public List<Entidades.Category> GetAllCategories()
         {
-            return _myDbContext.Categorias.Include(x => x.Shoes).ToList();
+            return _myDbContext.Categorys.Include(x => x.Shoes).ToList();
         }
 
         public Entidades.Category GetCategoryById(int IdCategory)
         {
-            return _myDbContext.Categorias.Include(x => x.Shoes).ToList()[IdCategory];
+            return _myDbContext.Categorys.Include(x => x.Shoes).ToList()[IdCategory];
         }
         #endregion
     }

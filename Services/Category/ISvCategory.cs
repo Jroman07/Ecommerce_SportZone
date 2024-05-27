@@ -5,11 +5,11 @@ namespace Services.Category
     public interface ISvCategory
     {
         //reads
-        public List<Categoria> GetAllCategories();
+        public List<Proyecto_SportZone.Category> GetAllCategories();
 
-        public Categoria GetCategoryById(int IdCategory);
+        public Proyecto_SportZone.Category GetCategoryById(int IdCategory);
 
         //writes
-        public Categoria AddCategory(Categoria category);
+        public Proyecto_SportZone.Category AddCategory(Proyecto_SportZone.Category category);
     }
 }

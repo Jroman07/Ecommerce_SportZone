@@ -14,7 +14,7 @@ namespace Services.Category
         }
 
         #region Writes
-        public Categoria AddCategory(Categoria category)
+        public Proyecto_SportZone.Category AddCategory(Proyecto_SportZone.Category category)
         {
             _myDbContext.Categorias.Add(category);
             _myDbContext.SaveChanges();
@@ -24,12 +24,12 @@ namespace Services.Category
         #endregion
 
         #region Reads
-        public List<Categoria> GetAllCategories()
+        public List<Proyecto_SportZone.Category> GetAllCategories()
         {
             return _myDbContext.Categorias.Include(x => x.Shoes).ToList();
         }
 
-        public Categoria GetCategoryById(int IdCategory)
+        public Proyecto_SportZone.Category GetCategoryById(int IdCategory)
         {
             return _myDbContext.Categorias.Include(x => x.Shoes).ToList()[IdCategory];
         }

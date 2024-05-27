@@ -1,150 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\",
+  "WorkspaceRootPath": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\shoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\shoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\entidades\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\shoe\\isvshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\shoe\\isvshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\category\\isvcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\category\\isvcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\category\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\category\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\invoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\invoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\invoice\\isvinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\invoice\\isvinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\entidades\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\entidades\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\entidades\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\ecommerce-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\entidades\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\shoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\shoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\ecommerce-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\shoe\\isvshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\shoe\\isvshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\customer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\customer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\category\\isvcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\category\\isvcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyecto\\ecommerce_sportzone\\services\\customer\\isvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\customer\\isvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\customer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\customer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\customer\\isvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\customer\\isvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\ecommerce-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\mydbcontext\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\ecommerce-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\category\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\category\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\ecommerce-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\invoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\invoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\invoice\\isvinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\invoice\\isvinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\ecommerce-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\ecommerce-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\customer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\customer\\svcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\services\\customer\\isvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\customer\\isvcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\ecommerce-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\ecommerce-api\\controllers\\shoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\ecommerce-api\\controllers\\shoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\shoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\ecommerce-api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|c:\\documentos\\programaci\u00F3n ii\\proyecto-progra-ii\\ecommerce-parte_ii\\entidades\\ecommerce-api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83E4255F-52A9-4541-B68E-63C18C049700}|Ecommerce-API\\Ecommerce-API.csproj|solutionrelative:ecommerce-api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
-=======
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\category\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\category\\svcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\invoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\invoice\\svinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\shoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\shoe\\svshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\shoe\\isvshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\shoe\\isvshoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\entidades\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B81E7A98-897D-438E-8EDA-18FD6C642491}|Entidades\\Entidades.csproj|solutionrelative:entidades\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\invoice\\isvinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\invoice\\isvinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|c:\\programacion ii\\proyectosamuel\\ecommerce_sportzone\\services\\category\\isvcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2668DE8-E4FE-4C8B-9F9D-C79730E366D5}|Services\\Services.csproj|solutionrelative:services\\category\\isvcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,431 +98,268 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-              "Title": "SvShoe.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Shoe\\SvShoe.cs",
-              "RelativeDocumentMoniker": "Services\\Shoe\\SvShoe.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Shoe\\SvShoe.cs",
-              "RelativeToolTip": "Services\\Shoe\\SvShoe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-=======
-              "DocumentIndex": 4,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Ecommerce-API\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowDwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SvCustomer.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Customer\\SvCustomer.cs",
-              "RelativeDocumentMoniker": "Services\\Customer\\SvCustomer.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Customer\\SvCustomer.cs",
-              "RelativeToolTip": "Services\\Customer\\SvCustomer.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAmwCcAAAAuAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 3,
-              "Title": "MyContext.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\MyDbContext\\MyContext.cs",
-              "RelativeDocumentMoniker": "Services\\MyDbContext\\MyContext.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\MyDbContext\\MyContext.cs",
-              "RelativeToolTip": "Services\\MyDbContext\\MyContext.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvwYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:30:59.286Z"
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ISvCategory.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Category\\ISvCategory.cs",
-              "RelativeDocumentMoniker": "Services\\Category\\ISvCategory.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Category\\ISvCategory.cs",
-              "RelativeToolTip": "Services\\Category\\ISvCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
-=======
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Program.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Program.cs",
-              "RelativeToolTip": "Services\\Program.cs",
+              "Title": "PurchaseDetail.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\PurchaseDetail.cs",
+              "RelativeDocumentMoniker": "Entidades\\PurchaseDetail.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\PurchaseDetail.cs",
+              "RelativeToolTip": "Entidades\\PurchaseDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:38:04.574Z",
+              "WhenOpened": "2024-05-27T04:24:13.72Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Ecommerce-API\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwBAAAAAAAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISvShoe.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Shoe\\ISvShoe.cs",
-              "RelativeDocumentMoniker": "Services\\Shoe\\ISvShoe.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Shoe\\ISvShoe.cs",
-              "RelativeToolTip": "Services\\Shoe\\ISvShoe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.674Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SvInvoice.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Invoice\\SvInvoice.cs",
-              "RelativeDocumentMoniker": "Services\\Invoice\\SvInvoice.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Invoice\\SvInvoice.cs",
-              "RelativeToolTip": "Services\\Invoice\\SvInvoice.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAEAAAAbAAAA",
+              "Title": "SvShoe.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Shoe\\SvShoe.cs",
+              "RelativeDocumentMoniker": "Services\\Shoe\\SvShoe.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Shoe\\SvShoe.cs",
+              "RelativeToolTip": "Services\\Shoe\\SvShoe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.681Z"
+              "WhenOpened": "2024-05-27T04:17:31.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-<<<<<<< HEAD
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Invoice.cs",
-              "RelativeDocumentMoniker": "Entidades\\Invoice.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Invoice.cs",
-              "RelativeToolTip": "Entidades\\Invoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-=======
-              "Title": "ShoeController.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\ShoeController.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\ShoeController.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\ShoeController.cs",
-              "RelativeToolTip": "Ecommerce-API\\Controllers\\ShoeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.694Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 9,
-=======
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Program.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Program.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Program.cs",
-              "RelativeToolTip": "Ecommerce-API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Cliente.cs",
-              "RelativeDocumentMoniker": "Entidades\\Cliente.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Cliente.cs",
-              "RelativeToolTip": "Entidades\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.628Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 11,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Ecommerce-API\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-=======
-              "DocumentIndex": 5,
               "Title": "MyContext.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\MyDbContext\\MyContext.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\MyDbContext\\MyContext.cs",
               "RelativeDocumentMoniker": "Services\\MyDbContext\\MyContext.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\MyDbContext\\MyContext.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\MyDbContext\\MyContext.cs",
               "RelativeToolTip": "Services\\MyDbContext\\MyContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:30:59.286Z"
+              "WhenOpened": "2024-05-27T04:17:31.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ISvCustomer.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Customer\\ISvCustomer.cs",
-              "RelativeDocumentMoniker": "Services\\Customer\\ISvCustomer.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Customer\\ISvCustomer.cs",
-              "RelativeToolTip": "Services\\Customer\\ISvCustomer.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InvoiceController.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\InvoiceController.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\InvoiceController.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\InvoiceController.cs",
-              "RelativeToolTip": "Ecommerce-API\\Controllers\\InvoiceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.666Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 10,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Categoria.cs",
-              "RelativeDocumentMoniker": "Entidades\\Categoria.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Categoria.cs",
-              "RelativeToolTip": "Entidades\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-=======
-              "DocumentIndex": 13,
-              "Title": "SvInvoice.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Invoice\\SvInvoice.cs",
-              "RelativeDocumentMoniker": "Services\\Invoice\\SvInvoice.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Invoice\\SvInvoice.cs",
-              "RelativeToolTip": "Services\\Invoice\\SvInvoice.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAYAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.683Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 7,
-              "Title": "Shoe.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Shoe.cs",
-              "RelativeDocumentMoniker": "Entidades\\Shoe.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Shoe.cs",
-              "RelativeToolTip": "Entidades\\Shoe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAWAAAA",
-=======
-              "DocumentIndex": 15,
-              "Title": "ISvShoe.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Shoe\\ISvShoe.cs",
-              "RelativeDocumentMoniker": "Services\\Shoe\\ISvShoe.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Shoe\\ISvShoe.cs",
-              "RelativeToolTip": "Services\\Shoe\\ISvShoe.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAtAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
+              "Title": "ISvCategory.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Category\\ISvCategory.cs",
+              "RelativeDocumentMoniker": "Services\\Category\\ISvCategory.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Category\\ISvCategory.cs",
+              "RelativeToolTip": "Services\\Category\\ISvCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.694Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "SvCategory.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Category\\SvCategory.cs",
-              "RelativeDocumentMoniker": "Services\\Category\\SvCategory.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Category\\SvCategory.cs",
-              "RelativeToolTip": "Services\\Category\\SvCategory.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAIAAAA",
-=======
-              "DocumentIndex": 14,
-              "Title": "SvShoe.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Shoe\\SvShoe.cs",
-              "RelativeDocumentMoniker": "Services\\Shoe\\SvShoe.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Shoe\\SvShoe.cs",
-              "RelativeToolTip": "Services\\Shoe\\SvShoe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.683Z"
+              "WhenOpened": "2024-05-27T04:17:31.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ISvInvoice.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Invoice\\ISvInvoice.cs",
-              "RelativeDocumentMoniker": "Services\\Invoice\\ISvInvoice.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Invoice\\ISvInvoice.cs",
-              "RelativeToolTip": "Services\\Invoice\\ISvInvoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Title": "ISvShoe.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Shoe\\ISvShoe.cs",
+              "RelativeDocumentMoniker": "Services\\Shoe\\ISvShoe.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Shoe\\ISvShoe.cs",
+              "RelativeToolTip": "Services\\Shoe\\ISvShoe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.683Z"
+              "WhenOpened": "2024-05-27T04:17:31.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SvInvoice.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Invoice\\SvInvoice.cs",
+              "RelativeDocumentMoniker": "Services\\Invoice\\SvInvoice.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Invoice\\SvInvoice.cs",
+              "RelativeToolTip": "Services\\Invoice\\SvInvoice.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Invoice.cs",
+              "RelativeDocumentMoniker": "Entidades\\Invoice.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Invoice.cs",
+              "RelativeToolTip": "Entidades\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Customer.cs",
+              "RelativeDocumentMoniker": "Entidades\\Customer.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Customer.cs",
+              "RelativeToolTip": "Entidades\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-<<<<<<< HEAD
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Program.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Program.cs",
-              "RelativeToolTip": "Services\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Ecommerce-API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:38:04.574Z"
+              "WhenOpened": "2024-05-27T04:17:31.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Category.cs",
+              "RelativeDocumentMoniker": "Entidades\\Category.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Category.cs",
+              "RelativeToolTip": "Entidades\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Shoe.cs",
+              "RelativeDocumentMoniker": "Entidades\\Shoe.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Entidades\\Shoe.cs",
+              "RelativeToolTip": "Entidades\\Shoe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SvCategory.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Category\\SvCategory.cs",
+              "RelativeDocumentMoniker": "Services\\Category\\SvCategory.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Category\\SvCategory.cs",
+              "RelativeToolTip": "Services\\Category\\SvCategory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISvInvoice.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Invoice\\ISvInvoice.cs",
+              "RelativeDocumentMoniker": "Services\\Invoice\\ISvInvoice.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Invoice\\ISvInvoice.cs",
+              "RelativeToolTip": "Services\\Invoice\\ISvInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Ecommerce-API\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Program.cs",
+              "RelativeToolTip": "Services\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T03:53:14.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ISvCustomer.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Customer\\ISvCustomer.cs",
-              "RelativeDocumentMoniker": "Services\\Customer\\ISvCustomer.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Customer\\ISvCustomer.cs",
-              "RelativeToolTip": "Services\\Customer\\ISvCustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.691Z"
+              "WhenOpened": "2024-05-27T04:17:31.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "SvCustomer.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Customer\\SvCustomer.cs",
-              "RelativeDocumentMoniker": "Services\\Customer\\SvCustomer.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Customer\\SvCustomer.cs",
-              "RelativeToolTip": "Services\\Customer\\SvCustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
-=======
-              "Title": "SvCategory.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Category\\SvCategory.cs",
-              "RelativeDocumentMoniker": "Services\\Category\\SvCategory.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Category\\SvCategory.cs",
-              "RelativeToolTip": "Services\\Category\\SvCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Ecommerce-API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.683Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 17,
-              "Title": "ShoeController.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\ShoeController.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\ShoeController.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\ShoeController.cs",
-              "RelativeToolTip": "Ecommerce-API\\Controllers\\ShoeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.674Z"
-=======
-              "DocumentIndex": 11,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Categoria.cs",
-              "RelativeDocumentMoniker": "Entidades\\Categoria.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Categoria.cs",
-              "RelativeToolTip": "Entidades\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ISvCategory.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Category\\ISvCategory.cs",
-              "RelativeDocumentMoniker": "Services\\Category\\ISvCategory.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Category\\ISvCategory.cs",
-              "RelativeToolTip": "Services\\Category\\ISvCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.694Z"
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
+              "WhenOpened": "2024-05-27T04:17:31.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-<<<<<<< HEAD
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Program.cs",
-              "RelativeDocumentMoniker": "Ecommerce-API\\Program.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Program.cs",
-              "RelativeToolTip": "Ecommerce-API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-=======
-              "Title": "Shoe.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Shoe.cs",
-              "RelativeDocumentMoniker": "Entidades\\Shoe.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Shoe.cs",
-              "RelativeToolTip": "Entidades\\Shoe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAWAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
+              "Title": "ISvCustomer.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Customer\\ISvCustomer.cs",
+              "RelativeDocumentMoniker": "Services\\Customer\\ISvCustomer.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Customer\\ISvCustomer.cs",
+              "RelativeToolTip": "Services\\Customer\\ISvCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.673Z"
+              "WhenOpened": "2024-05-27T04:17:31.225Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
+              "DocumentIndex": 15,
+              "Title": "SvCustomer.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Customer\\SvCustomer.cs",
+              "RelativeDocumentMoniker": "Services\\Customer\\SvCustomer.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Services\\Customer\\SvCustomer.cs",
+              "RelativeToolTip": "Services\\Customer\\SvCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.227Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "ShoeController.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\ShoeController.cs",
+              "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\ShoeController.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\ShoeController.cs",
+              "RelativeToolTip": "Ecommerce-API\\Controllers\\ShoeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce-API\\Program.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Program.cs",
+              "RelativeToolTip": "Ecommerce-API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:17:31.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "InvoiceController.cs",
-              "DocumentMoniker": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\InvoiceController.cs",
+              "DocumentMoniker": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\InvoiceController.cs",
               "RelativeDocumentMoniker": "Ecommerce-API\\Controllers\\InvoiceController.cs",
-              "ToolTip": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Documentos\\Programaci\u00F3n II\\Proyecto-Progra-II\\Ecommerce-Parte_II\\Entidades\\Ecommerce-API\\Controllers\\InvoiceController.cs",
               "RelativeToolTip": "Ecommerce-API\\Controllers\\InvoiceController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-=======
-              "DocumentIndex": 10,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Invoice.cs",
-              "RelativeDocumentMoniker": "Entidades\\Invoice.cs",
-              "ToolTip": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Invoice.cs",
-              "RelativeToolTip": "Entidades\\Invoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
->>>>>>> 933392ed47debc5889984191ac442bc09b493bff
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:36:01.666Z"
+              "WhenOpened": "2024-05-27T04:17:31.234Z"
             }
           ]
         }

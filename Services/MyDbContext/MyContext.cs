@@ -13,7 +13,7 @@ namespace Services.MyDbContext
 
         public DbSet<Shoes> Shoes { get; set; }
         public DbSet<Invoices> Invoices { get; set; }
-        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Proyecto_SportZone.Category> Categorias { get; set; }
         public DbSet<Cliente> Customers { get; set; }
     }
 }

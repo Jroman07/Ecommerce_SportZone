@@ -1274,11 +1274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Ecommerce-API.csproj",
+      "projectUniqueName": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Ecommerce-API.csproj",
       "projectName": "Ecommerce-API",
-      "projectPath": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Ecommerce-API.csproj",
+      "projectPath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Ecommerce-API.csproj",
       "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-      "outputPath": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\obj\\",
+      "outputPath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1299,8 +1299,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Services.csproj": {
-              "projectPath": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Services.csproj"
+            "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Services.csproj": {
+              "projectPath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Services.csproj"
             }
           }
         }

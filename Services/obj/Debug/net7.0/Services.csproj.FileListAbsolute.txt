@@ -58,3 +58,12 @@ C:\programacion II\Proyecto\Ecommerce_SportZone\Services\obj\Debug\net7.0\refint
 C:\programacion II\Proyecto\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.pdb
 C:\programacion II\Proyecto\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
 C:\programacion II\Proyecto\Ecommerce_SportZone\Services\obj\Debug\net7.0\ref\Services.dll
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.sourcelink.json
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.dll
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\refint\Services.dll
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Services\obj\Debug\net7.0\Services.pdb

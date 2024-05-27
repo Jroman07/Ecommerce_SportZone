@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Onw+E5QuRp/kv8LBCtQzOI8okUzfrJhfSKmRu//z0CdEYy1kg5qkc4VdYAjH1+uTIRNGQ3MwV2Em/ai+Squlhw==",
+  "dgSpecHash": "V4NOuzsO9IpnxA78eU6xPCTQyLZU5UKd7e8J7FYJora9fR4HCnFa28MbfnBYRkrR7tOkw5r3wLIgxjnATnlkNw==",
   "success": true,
-  "projectFilePath": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Ecommerce-API\\Ecommerce-API.csproj",
+  "projectFilePath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Ecommerce-API\\Ecommerce-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samue\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.18\\microsoft.aspnetcore.jsonpatch.7.0.18.nupkg.sha512",
     "C:\\Users\\Samue\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.18\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.18.nupkg.sha512",

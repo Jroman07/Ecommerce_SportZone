@@ -94,3 +94,14 @@ C:\programacion II\Proyecto\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\r
 C:\programacion II\Proyecto\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb
 C:\programacion II\Proyecto\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.genruntimeconfig.cache
 C:\programacion II\Proyecto\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\ref\Ecommerce-API.dll
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.AssemblyReference.cache
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfoInputs.cache
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.AssemblyInfo.cs
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.csproj.CoreCompileInputs.cache
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cs
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.MvcApplicationPartsAssemblyInfo.cache
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.sourcelink.json
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.dll
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\refint\Ecommerce-API.dll
+C:\programacion II\ProyectoSamuel\Ecommerce_SportZone\Ecommerce-API\obj\Debug\net7.0\Ecommerce-API.pdb

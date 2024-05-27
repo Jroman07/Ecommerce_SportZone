@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7iFAAJ/N90YNyS/K4l8zBVUGNo7PouetmwRkzhpfp/moABzLXMrotxLQ/WHPvDLSnBOxk69t2Ii89xsVSY9UQ==",
+  "dgSpecHash": "Csj3jj5xdZOP0/3St1PjvKvEI5Igqp1Wy0GzDPSyyQSaUJalrHj9uUF2pEvRzkdwjC48mTtYnub5CQYvxbZiWA==",
   "success": true,
-  "projectFilePath": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Services\\Services.csproj",
+  "projectFilePath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samue\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.18\\microsoft.entityframeworkcore.7.0.18.nupkg.sha512",
     "C:\\Users\\Samue\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.18\\microsoft.entityframeworkcore.abstractions.7.0.18.nupkg.sha512",

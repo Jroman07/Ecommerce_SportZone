@@ -1,4 +1,4 @@
-﻿using Proyecto_SportZone;
+﻿
 using Microsoft.EntityFrameworkCore;
 
 namespace Services.MyDbContext
@@ -11,9 +11,9 @@ namespace Services.MyDbContext
             optionsBuilder.UseInMemoryDatabase("MyDatabase");
         }
 
-        public DbSet<Shoes> Shoes { get; set; }
-        public DbSet<Invoices> Invoices { get; set; }
-        public DbSet<Proyecto_SportZone.Category> Categorias { get; set; }
-        public DbSet<Cliente> Customers { get; set; }
+        public DbSet<Entidades.Shoe> Shoes { get; set; }
+        public DbSet<Entidades.Invoice> Invoices { get; set; }
+        public DbSet<Entidades.Category> Categorias { get; set; }
+        public DbSet<Entidades.Customer> Customers { get; set; }
     }
 }

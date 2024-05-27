@@ -1,4 +1,4 @@
-﻿using Proyecto_SportZone;
+﻿
 using Services.MyDbContext;
 
 namespace Services.Shoe
@@ -10,7 +10,7 @@ namespace Services.Shoe
         {
             _myDbContext = new MyContext();
         }
-        public Shoes AddShoe(Shoes shoe)
+        public Entidades.Shoe AddShoe(Entidades.Shoe shoe)
         {
             _myDbContext.Shoes.Add(shoe);
             _myDbContext.SaveChanges();
@@ -18,27 +18,27 @@ namespace Services.Shoe
         }
         public void DeleteShoe(int id)
         {
-            Shoes deleCustomer = _myDbContext.Shoes.Find(id);
-            if (deleCustomer != null)
+            Entidades.Shoe deleteShoe = _myDbContext.Shoes.Find(id);
+            if (deleteShoe != null)
             {
-                deleCustomer.IsActive= false;
-                _myDbContext.Update(deleCustomer);
+                 deleteShoe.ChangeIsActive();
+                _myDbContext.Shoes.Update(deleteShoe);
                 _myDbContext.SaveChanges();
             }
         }
-        public List<Shoes> GetAllShoes()
+        public List<Entidades.Shoe> GetAllShoes()
         {
             return _myDbContext.Shoes.ToList();
         }
 
-        public Shoes GetShoeById(int id)
+        public Entidades.Shoe GetShoeById(int id)
         {
             return _myDbContext.Shoes.Find(id);
         }
 
-        public Shoes UpdateShoe(int id, Shoes shoe)
+        public Entidades.Shoe UpdateShoe(int id, Entidades.Shoe shoe)
         {
-            Shoes shoesUpdate = _myDbContext.Shoes.Find(id);
+            Entidades.Shoe shoesUpdate = _myDbContext.Shoes.Find(id);
             shoesUpdate.Name = shoe.Name;
             shoesUpdate.Price = shoe.Price;
             shoesUpdate.Stock = shoe.Stock;

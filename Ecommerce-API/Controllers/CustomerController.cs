@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Proyecto_SportZone;
+using Entidades;
 using Services.Customer;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -18,30 +18,30 @@ namespace Ecommerce_API.Controllers
 
         // GET: api/<CustomerController>
         [HttpGet]
-        public IEnumerable<Cliente> Get()
+        public IEnumerable<Customer> Get()
         {
             return _svCustumer.GetAllcustomer();
         }
 
         // GET api/<CustomerController>/5
         [HttpGet("{id}")]
-        public Cliente Get(int id)
+        public Customer Get(int id)
         {
             return _svCustumer.GetCostumerById(id);
         }
 
         // POST api/<CustomerController>
         [HttpPost]
-        public void Post([FromBody] Cliente customer)
+        public void Post([FromBody] Customer customer)
         {
             _svCustumer.Addcustomer(customer);
         }
 
         // PUT api/<CustomerController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] Cliente customer)
+        public void Put(int id, [FromBody] Customer customer)
         {
-            _svCustumer.UpdateCustomer(id, new Cliente
+            _svCustumer.UpdateCustomer(id, new Customer
             {
                 Name = customer.Name,
                 Email = customer.Email
@@ -56,7 +56,7 @@ namespace Ecommerce_API.Controllers
         }
         // GET api/<CustomerController>/5
         [HttpGet("{email}")]
-        public Cliente searchemail(string _mail)
+        public Customer searchemail(string _mail)
         {
             return _svCustumer.SearchByEmail(_mail);
         }

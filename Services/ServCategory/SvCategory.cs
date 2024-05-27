@@ -1,5 +1,4 @@
 ﻿
-using Proyecto_SportZone;
 using Microsoft.EntityFrameworkCore;
 using Services.MyDbContext;
 
@@ -14,7 +13,7 @@ namespace Services.Category
         }
 
         #region Writes
-        public Proyecto_SportZone.Category AddCategory(Proyecto_SportZone.Category category)
+        public Entidades.Category AddCategory(Entidades.Category category)
         {
             _myDbContext.Categorias.Add(category);
             _myDbContext.SaveChanges();
@@ -24,12 +23,12 @@ namespace Services.Category
         #endregion
 
         #region Reads
-        public List<Proyecto_SportZone.Category> GetAllCategories()
+        public List<Entidades.Category> GetAllCategories()
         {
             return _myDbContext.Categorias.Include(x => x.Shoes).ToList();
         }
 
-        public Proyecto_SportZone.Category GetCategoryById(int IdCategory)
+        public Entidades.Category GetCategoryById(int IdCategory)
         {
             return _myDbContext.Categorias.Include(x => x.Shoes).ToList()[IdCategory];
         }

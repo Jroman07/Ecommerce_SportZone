@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Entidades.csproj": {}
+    "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Entidades.csproj": {
+    "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-        "outputPath": "C:\\programacion II\\Proyecto\\Ecommerce_SportZone\\Entidades\\obj\\",
+        "outputPath": "C:\\programacion II\\ProyectoSamuel\\Ecommerce_SportZone\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

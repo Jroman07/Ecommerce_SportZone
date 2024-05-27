@@ -12,27 +12,42 @@ namespace Services.Shoe
         }
         public Shoes AddShoe(Shoes shoe)
         {
-            throw new NotImplementedException();
+            _myDbContext.Shoes.Add(shoe);
+            _myDbContext.SaveChanges();
+            return shoe;
         }
-
         public void DeleteShoe(int id)
         {
-            throw new NotImplementedException();
+            Shoes deleCustomer = _myDbContext.Shoes.Find(id);
+            if (deleCustomer != null)
+            {
+                deleCustomer.IsActive= false;
+                _myDbContext.Update(deleCustomer);
+                _myDbContext.SaveChanges();
+            }
         }
-
         public List<Shoes> GetAllShoes()
         {
-            throw new NotImplementedException();
+            return _myDbContext.Shoes.ToList();
         }
 
         public Shoes GetShoeById(int id)
         {
-            throw new NotImplementedException();
+            return _myDbContext.Shoes.Find(id);
         }
 
         public Shoes UpdateShoe(int id, Shoes shoe)
         {
-            throw new NotImplementedException();
+            Shoes shoesUpdate = _myDbContext.Shoes.Find(id);
+            shoesUpdate.Name = shoe.Name;
+            shoesUpdate.Price = shoe.Price;
+            shoesUpdate.Stock = shoe.Stock;
+            shoesUpdate.Size = shoe.Size;
+
+            _myDbContext.Update(shoesUpdate);
+            _myDbContext.SaveChanges();
+             
+            return shoesUpdate;
         }
     }
 }

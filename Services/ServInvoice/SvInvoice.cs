@@ -1,10 +1,5 @@
-﻿using Proyecto_SportZone;
+﻿using Entidades;
 using Services.MyDbContext;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Services.Invoice
 {

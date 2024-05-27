@@ -24,7 +24,7 @@ namespace Services.Customer
             customerUpdate.Name = customer.Name;
             customerUpdate.Email = customer.Email;
 
-            _myDbContext.Update(customerUpdate);
+            _myDbContext.Customers.Update(customerUpdate);
             _myDbContext.SaveChanges();
 
             return customerUpdate;
@@ -38,7 +38,7 @@ namespace Services.Customer
             {
 
                 deleteCustomer.ChangeIsActive();
-                _myDbContext.Update(deleteCustomer);
+                _myDbContext.Customers.Update(deleteCustomer);
                 _myDbContext.SaveChanges();
             }
 

@@ -39,7 +39,7 @@ namespace Services.Shoe
             shoesUpdate.Stock = shoe.Stock;
             shoesUpdate.Size = shoe.Size;
 
-            _myDbContext.Update(shoesUpdate);
+            _myDbContext.Shoes.Update(shoesUpdate);
             _myDbContext.SaveChanges();
 
             return shoesUpdate;
